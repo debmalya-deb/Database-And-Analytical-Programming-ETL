@@ -1,0 +1,7 @@
+SELECT r.rent_serial_id, h.region AS homeless_region, h.male_adults AS homeless_male_adults, 
+       h.female_adults AS homeless_female_adults,i.nationality AS immigrants_nationality,
+	   i.gender AS immigrants_gender, i.year AS immigration_year,
+       r.location AS rent_location, r.cost as rent_cost
+FROM public.homeless h
+JOIN public.immigration i ON h.homeless_serial_id = i.immigration_serial_id
+JOIN public.rent r ON h.homeless_serial_id = r.rent_serial_id;

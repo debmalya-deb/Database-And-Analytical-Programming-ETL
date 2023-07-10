@@ -1,0 +1,83 @@
+DROP FUNCTION IF EXISTS public.extract_month_name(date);
+CREATE OR REPLACE FUNCTION public.extract_month_name(adate date)
+    RETURNS text
+    LANGUAGE 'sql'
+    COST 100
+    IMMUTABLE PARALLEL UNSAFE
+AS $BODY$
+SELECT to_char(adate,'Month');
+$BODY$;
+
+DROP FUNCTION IF EXISTS public.extract_day_name(date);
+CREATE OR REPLACE FUNCTION public.extract_day_name(adate date)
+    RETURNS text
+    LANGUAGE 'sql'
+    COST 100
+    IMMUTABLE PARALLEL UNSAFE
+AS $BODY$
+SELECT to_char(adate,'Day');
+$BODY$;
+
+
+DROP TABLE IF EXISTS public.immigration;
+CREATE TABLE public.immigration
+(
+    immigration_serial_id serial NOT NULL,
+    immigration_id character varying(100) NOT NULL,
+    file_name character varying(100) NOT NULL,
+    year integer NOT NULL,
+    gender character varying(100) NOT NULL,
+    nationality character varying(100) NOT NULL,
+    unit character varying(100) NOT NULL,
+    value float NOT NULL,
+    CONSTRAINT pk_immigration PRIMARY KEY (immigration_serial_id)
+);
+
+DROP TABLE IF EXISTS public.rent;
+CREATE TABLE public.rent
+(
+    rent_serial_id serial NOT NULL,
+    rent_id character varying(100) NOT NULL,
+    year integer NOT NULL,
+    number_of_bedrooms character varying(100) NOT NULL,
+    property_type character varying(100) NOT NULL,
+    location character varying(100) NOT NULL,
+    cost float NOT NULL,
+    CONSTRAINT pk_rent PRIMARY KEY (rent_serial_id)
+);
+
+DROP TABLE IF EXISTS public.homeless;
+CREATE TABLE public.homeless
+(
+    homeless_serial_id serial NOT NULL,
+    homeless_id character varying(100) NOT NULL,
+    year integer NOT NULL,
+    month character varying(100) NOT NULL,
+    region character varying(100) NOT NULL,
+    total_adults character varying(100) NOT NULL,
+    male_adults character varying(100) NOT NULL,
+    female_adults character varying(100) NOT NULL,
+    CONSTRAINT pk_homeless PRIMARY KEY (homeless_serial_id)
+);
+
+
+DROP PROCEDURE IF EXISTS public.load_dates(date, date);
+CREATE OR REPLACE PROCEDURE public.load_dates(
+    IN start_date date,
+    IN finish_date date)
+LANGUAGE 'plpgsql'
+AS $BODY$
+DECLARE date_iter date DEFAULT start_date;
+
+BEGIN
+  TRUNCATE date_dimension;
+  WHILE date_iter <= finish_date LOOP
+      INSERT INTO date_dimension(full_date) VALUES(date_iter);
+      date_iter := date_iter + interval '1' day;
+  END LOOP;
+END;
+$BODY$;
+
+ALTER TABLE IF EXISTS public.immigration OWNER to dap;
+ALTER TABLE IF EXISTS public.rent OWNER to dap;
+ALTER TABLE IF EXISTS public.homeless OWNER to dap;

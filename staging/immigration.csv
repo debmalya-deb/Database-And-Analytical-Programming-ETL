@@ -1,0 +1,613 @@
+immigration_id	file_name	year	gender	nationality	unit	value
+64300ab3c1f531f75d1b5439	PEA17	2006	Both sexes	Irish	Thousand	18.9
+64300ab3c1f531f75d1b543a	PEA17	2006	Both sexes	UK (1)	Thousand	9.9
+64300ab3c1f531f75d1b543b	PEA17	2006	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	12.7
+64300ab3c1f531f75d1b543c	PEA17	2006	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	49.9
+64300ab3c1f531f75d1b543d	PEA17	2006	Both sexes	Other nationalities(17)	Thousand	16.4
+64300ab3c1f531f75d1b543e	PEA17	2006	Both sexes	All nationalities	Thousand	107.8
+64300ab3c1f531f75d1b543f	PEA17	2006	Male	Irish	Thousand	9.5
+64300ab3c1f531f75d1b5440	PEA17	2006	Male	UK (1)	Thousand	5.7
+64300ab3c1f531f75d1b5441	PEA17	2006	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.4
+64300ab3c1f531f75d1b5442	PEA17	2006	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	30.7
+64300ab3c1f531f75d1b5443	PEA17	2006	Male	Other nationalities(17)	Thousand	8.0
+64300ab3c1f531f75d1b5444	PEA17	2006	Male	All nationalities	Thousand	60.3
+64300ab3c1f531f75d1b5445	PEA17	2006	Female	Irish	Thousand	9.4
+64300ab3c1f531f75d1b5446	PEA17	2006	Female	UK (1)	Thousand	4.2
+64300ab3c1f531f75d1b5447	PEA17	2006	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.2
+64300ab3c1f531f75d1b5448	PEA17	2006	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	19.2
+64300ab3c1f531f75d1b5449	PEA17	2006	Female	Other nationalities(17)	Thousand	8.5
+64300ab3c1f531f75d1b544a	PEA17	2006	Female	All nationalities	Thousand	47.5
+64300ab3c1f531f75d1b544b	PEA17	2007	Both sexes	Irish	Thousand	30.7
+64300ab3c1f531f75d1b544c	PEA17	2007	Both sexes	UK (1)	Thousand	4.3
+64300ab3c1f531f75d1b544d	PEA17	2007	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	11.8
+64300ab3c1f531f75d1b544e	PEA17	2007	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	85.3
+64300ab3c1f531f75d1b544f	PEA17	2007	Both sexes	Other nationalities(17)	Thousand	19.0
+64300ab3c1f531f75d1b5450	PEA17	2007	Both sexes	All nationalities	Thousand	151.1
+64300ab3c1f531f75d1b5451	PEA17	2007	Male	Irish	Thousand	15.7
+64300ab3c1f531f75d1b5452	PEA17	2007	Male	UK (1)	Thousand	2.4
+64300ab3c1f531f75d1b5453	PEA17	2007	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.7
+64300ab3c1f531f75d1b5454	PEA17	2007	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	47.5
+64300ab3c1f531f75d1b5455	PEA17	2007	Male	Other nationalities(17)	Thousand	9.6
+64300ab3c1f531f75d1b5456	PEA17	2007	Male	All nationalities	Thousand	80.0
+64300ab3c1f531f75d1b5457	PEA17	2007	Female	Irish	Thousand	15.0
+64300ab3c1f531f75d1b5458	PEA17	2007	Female	UK (1)	Thousand	1.9
+64300ab3c1f531f75d1b5459	PEA17	2007	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.1
+64300ab3c1f531f75d1b545a	PEA17	2007	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	37.8
+64300ab3c1f531f75d1b545b	PEA17	2007	Female	Other nationalities(17)	Thousand	9.4
+64300ab3c1f531f75d1b545c	PEA17	2007	Female	All nationalities	Thousand	71.1
+64300ab3c1f531f75d1b545d	PEA17	2008	Both sexes	Irish	Thousand	23.8
+64300ab3c1f531f75d1b545e	PEA17	2008	Both sexes	UK (1)	Thousand	6.8
+64300ab3c1f531f75d1b545f	PEA17	2008	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	9.6
+64300ab3c1f531f75d1b5460	PEA17	2008	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	54.7
+64300ab3c1f531f75d1b5461	PEA17	2008	Both sexes	Other nationalities(17)	Thousand	18.6
+64300ab3c1f531f75d1b5462	PEA17	2008	Both sexes	All nationalities	Thousand	113.5
+64300ab3c1f531f75d1b5463	PEA17	2008	Male	Irish	Thousand	11.8
+64300ab3c1f531f75d1b5464	PEA17	2008	Male	UK (1)	Thousand	4.1
+64300ab3c1f531f75d1b5465	PEA17	2008	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.9
+64300ab3c1f531f75d1b5466	PEA17	2008	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	24.8
+64300ab3c1f531f75d1b5467	PEA17	2008	Male	Other nationalities(17)	Thousand	9.4
+64300ab3c1f531f75d1b5468	PEA17	2008	Male	All nationalities	Thousand	53.9
+64300ab3c1f531f75d1b5469	PEA17	2008	Female	Irish	Thousand	12.0
+64300ab3c1f531f75d1b546a	PEA17	2008	Female	UK (1)	Thousand	2.7
+64300ab3c1f531f75d1b546b	PEA17	2008	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.7
+64300ab3c1f531f75d1b546c	PEA17	2008	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	29.9
+64300ab3c1f531f75d1b546d	PEA17	2008	Female	Other nationalities(17)	Thousand	9.2
+64300ab3c1f531f75d1b546e	PEA17	2008	Female	All nationalities	Thousand	59.5
+64300ab3c1f531f75d1b546f	PEA17	2009	Both sexes	Irish	Thousand	23.0
+64300ab3c1f531f75d1b5470	PEA17	2009	Both sexes	UK (1)	Thousand	3.9
+64300ab3c1f531f75d1b5471	PEA17	2009	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	11.5
+64300ab3c1f531f75d1b5472	PEA17	2009	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	21.1
+64300ab3c1f531f75d1b5473	PEA17	2009	Both sexes	Other nationalities(17)	Thousand	14.1
+64300ab3c1f531f75d1b5474	PEA17	2009	Both sexes	All nationalities	Thousand	73.7
+64300ab3c1f531f75d1b5475	PEA17	2009	Male	Irish	Thousand	13.0
+64300ab3c1f531f75d1b5476	PEA17	2009	Male	UK (1)	Thousand	2.3
+64300ab3c1f531f75d1b5477	PEA17	2009	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.7
+64300ab3c1f531f75d1b5478	PEA17	2009	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	10.8
+64300ab3c1f531f75d1b5479	PEA17	2009	Male	Other nationalities(17)	Thousand	7.0
+64300ab3c1f531f75d1b547a	PEA17	2009	Male	All nationalities	Thousand	36.8
+64300ab3c1f531f75d1b547b	PEA17	2009	Female	Irish	Thousand	10.0
+64300ab3c1f531f75d1b547c	PEA17	2009	Female	UK (1)	Thousand	1.7
+64300ab3c1f531f75d1b547d	PEA17	2009	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.9
+64300ab3c1f531f75d1b547e	PEA17	2009	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	10.3
+64300ab3c1f531f75d1b547f	PEA17	2009	Female	Other nationalities(17)	Thousand	7.1
+64300ab3c1f531f75d1b5480	PEA17	2009	Female	All nationalities	Thousand	36.8
+64300ab3c1f531f75d1b5481	PEA17	2010	Both sexes	Irish	Thousand	17.9
+64300ab3c1f531f75d1b5482	PEA17	2010	Both sexes	UK (1)	Thousand	2.5
+64300ab3c1f531f75d1b5483	PEA17	2010	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.2
+64300ab3c1f531f75d1b5484	PEA17	2010	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.3
+64300ab3c1f531f75d1b5485	PEA17	2010	Both sexes	Other nationalities(17)	Thousand	6.0
+64300ab3c1f531f75d1b5486	PEA17	2010	Both sexes	All nationalities	Thousand	41.8
+64300ab3c1f531f75d1b5487	PEA17	2010	Male	Irish	Thousand	9.0
+64300ab3c1f531f75d1b5488	PEA17	2010	Male	UK (1)	Thousand	1.4
+64300ab3c1f531f75d1b5489	PEA17	2010	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.6
+64300ab3c1f531f75d1b548a	PEA17	2010	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab3c1f531f75d1b548b	PEA17	2010	Male	Other nationalities(17)	Thousand	2.8
+64300ab3c1f531f75d1b548c	PEA17	2010	Male	All nationalities	Thousand	20.4
+64300ab3c1f531f75d1b548d	PEA17	2010	Female	Irish	Thousand	8.9
+64300ab3c1f531f75d1b548e	PEA17	2010	Female	UK (1)	Thousand	1.1
+64300ab3c1f531f75d1b548f	PEA17	2010	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.6
+64300ab3c1f531f75d1b5490	PEA17	2010	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab3c1f531f75d1b5491	PEA17	2010	Female	Other nationalities(17)	Thousand	3.2
+64300ab3c1f531f75d1b5492	PEA17	2010	Female	All nationalities	Thousand	21.4
+64300ab3c1f531f75d1b5493	PEA17	2011	Both sexes	Irish	Thousand	19.6
+64300ab3c1f531f75d1b5494	PEA17	2011	Both sexes	UK (1)	Thousand	4.1
+64300ab3c1f531f75d1b5495	PEA17	2011	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.1
+64300ab3c1f531f75d1b5496	PEA17	2011	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	10.1
+64300ab3c1f531f75d1b5497	PEA17	2011	Both sexes	Other nationalities(17)	Thousand	12.4
+64300ab3c1f531f75d1b5498	PEA17	2011	Both sexes	All nationalities	Thousand	53.3
+64300ab3c1f531f75d1b5499	PEA17	2011	Male	Irish	Thousand	9.9
+64300ab3c1f531f75d1b549a	PEA17	2011	Male	UK (1)	Thousand	2.2
+64300ab3c1f531f75d1b549b	PEA17	2011	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.4
+64300ab3c1f531f75d1b549c	PEA17	2011	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab3c1f531f75d1b549d	PEA17	2011	Male	Other nationalities(17)	Thousand	5.9
+64300ab3c1f531f75d1b549e	PEA17	2011	Male	All nationalities	Thousand	26.0
+64300ab3c1f531f75d1b549f	PEA17	2011	Female	Irish	Thousand	9.7
+64300ab3c1f531f75d1b54a0	PEA17	2011	Female	UK (1)	Thousand	1.9
+64300ab3c1f531f75d1b54a1	PEA17	2011	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.7
+64300ab3c1f531f75d1b54a2	PEA17	2011	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.5
+64300ab3c1f531f75d1b54a3	PEA17	2011	Female	Other nationalities(17)	Thousand	6.5
+64300ab3c1f531f75d1b54a4	PEA17	2011	Female	All nationalities	Thousand	27.2
+64300ab3c1f531f75d1b54a5	PEA17	2012	Both sexes	Irish	Thousand	20.1
+64300ab3c1f531f75d1b54a6	PEA17	2012	Both sexes	UK (1)	Thousand	3.9
+64300ab3c1f531f75d1b54a7	PEA17	2012	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.9
+64300ab3c1f531f75d1b54a8	PEA17	2012	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.7
+64300ab3c1f531f75d1b54a9	PEA17	2012	Both sexes	Other nationalities(17)	Thousand	17.7
+64300ab3c1f531f75d1b54aa	PEA17	2012	Both sexes	All nationalities	Thousand	57.3
+64300ab3c1f531f75d1b54ab	PEA17	2012	Male	Irish	Thousand	9.1
+64300ab3c1f531f75d1b54ac	PEA17	2012	Male	UK (1)	Thousand	2.0
+64300ab3c1f531f75d1b54ad	PEA17	2012	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.6
+64300ab3c1f531f75d1b54ae	PEA17	2012	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.2
+64300ab3c1f531f75d1b54af	PEA17	2012	Male	Other nationalities(17)	Thousand	9.6
+64300ab3c1f531f75d1b54b0	PEA17	2012	Male	All nationalities	Thousand	27.5
+64300ab3c1f531f75d1b54b1	PEA17	2012	Female	Irish	Thousand	11.0
+64300ab3c1f531f75d1b54b2	PEA17	2012	Female	UK (1)	Thousand	1.8
+64300ab3c1f531f75d1b54b3	PEA17	2012	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.3
+64300ab3c1f531f75d1b54b4	PEA17	2012	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.5
+64300ab3c1f531f75d1b54b5	PEA17	2012	Female	Other nationalities(17)	Thousand	8.2
+64300ab3c1f531f75d1b54b6	PEA17	2012	Female	All nationalities	Thousand	29.7
+64300ab3c1f531f75d1b54b7	PEA17	2013	Both sexes	Irish	Thousand	21.7
+64300ab3c1f531f75d1b54b8	PEA17	2013	Both sexes	UK (1)	Thousand	4.1
+64300ab3c1f531f75d1b54b9	PEA17	2013	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	8.8
+64300ab3c1f531f75d1b54ba	PEA17	2013	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	8.3
+64300ab3c1f531f75d1b54bb	PEA17	2013	Both sexes	Other nationalities(17)	Thousand	19.8
+64300ab3c1f531f75d1b54bc	PEA17	2013	Both sexes	All nationalities	Thousand	62.7
+64300ab3c1f531f75d1b54bd	PEA17	2013	Male	Irish	Thousand	10.5
+64300ab3c1f531f75d1b54be	PEA17	2013	Male	UK (1)	Thousand	2.3
+64300ab3c1f531f75d1b54bf	PEA17	2013	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.4
+64300ab3c1f531f75d1b54c0	PEA17	2013	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.8
+64300ab3c1f531f75d1b54c1	PEA17	2013	Male	Other nationalities(17)	Thousand	11.3
+64300ab3c1f531f75d1b54c2	PEA17	2013	Male	All nationalities	Thousand	32.3
+64300ab3c1f531f75d1b54c3	PEA17	2013	Female	Irish	Thousand	11.2
+64300ab3c1f531f75d1b54c4	PEA17	2013	Female	UK (1)	Thousand	1.9
+64300ab3c1f531f75d1b54c5	PEA17	2013	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.3
+64300ab3c1f531f75d1b54c6	PEA17	2013	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab3c1f531f75d1b54c7	PEA17	2013	Female	Other nationalities(17)	Thousand	8.4
+64300ab3c1f531f75d1b54c8	PEA17	2013	Female	All nationalities	Thousand	30.4
+64300ab3c1f531f75d1b54c9	PEA17	2014	Both sexes	Irish	Thousand	22.8
+64300ab3c1f531f75d1b54ca	PEA17	2014	Both sexes	UK (1)	Thousand	4.2
+64300ab3c1f531f75d1b54cb	PEA17	2014	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	9.4
+64300ab3c1f531f75d1b54cc	PEA17	2014	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	11.1
+64300ab3c1f531f75d1b54cd	PEA17	2014	Both sexes	Other nationalities(17)	Thousand	19.0
+64300ab3c1f531f75d1b54ce	PEA17	2014	Both sexes	All nationalities	Thousand	66.5
+64300ab3c1f531f75d1b54cf	PEA17	2014	Male	Irish	Thousand	9.9
+64300ab3c1f531f75d1b54d0	PEA17	2014	Male	UK (1)	Thousand	2.0
+64300ab3c1f531f75d1b54d1	PEA17	2014	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.3
+64300ab3c1f531f75d1b54d2	PEA17	2014	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.9
+64300ab3c1f531f75d1b54d3	PEA17	2014	Male	Other nationalities(17)	Thousand	9.7
+64300ab3c1f531f75d1b54d4	PEA17	2014	Male	All nationalities	Thousand	30.9
+64300ab3c1f531f75d1b54d5	PEA17	2014	Female	Irish	Thousand	12.9
+64300ab3c1f531f75d1b54d6	PEA17	2014	Female	UK (1)	Thousand	2.2
+64300ab3c1f531f75d1b54d7	PEA17	2014	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.1
+64300ab3c1f531f75d1b54d8	PEA17	2014	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.1
+64300ab3c1f531f75d1b54d9	PEA17	2014	Female	Other nationalities(17)	Thousand	9.3
+64300ab3c1f531f75d1b54da	PEA17	2014	Female	All nationalities	Thousand	35.6
+64300ab3c1f531f75d1b54db	PEA17	2015	Both sexes	Irish	Thousand	26.6
+64300ab3c1f531f75d1b54dc	PEA17	2015	Both sexes	UK (1)	Thousand	5.0
+64300ab3c1f531f75d1b54dd	PEA17	2015	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	10.2
+64300ab3c1f531f75d1b54de	PEA17	2015	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	12.2
+64300ab3c1f531f75d1b54df	PEA17	2015	Both sexes	Other nationalities(17)	Thousand	21.9
+64300ab3c1f531f75d1b54e0	PEA17	2015	Both sexes	All nationalities	Thousand	75.9
+64300ab3c1f531f75d1b54e1	PEA17	2015	Male	Irish	Thousand	11.9
+64300ab3c1f531f75d1b54e2	PEA17	2015	Male	UK (1)	Thousand	2.5
+64300ab3c1f531f75d1b54e3	PEA17	2015	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.6
+64300ab3c1f531f75d1b54e4	PEA17	2015	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.5
+64300ab3c1f531f75d1b54e5	PEA17	2015	Male	Other nationalities(17)	Thousand	11.2
+64300ab3c1f531f75d1b54e6	PEA17	2015	Male	All nationalities	Thousand	35.7
+64300ab3c1f531f75d1b54e7	PEA17	2015	Female	Irish	Thousand	14.7
+64300ab3c1f531f75d1b54e8	PEA17	2015	Female	UK (1)	Thousand	2.5
+64300ab3c1f531f75d1b54e9	PEA17	2015	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.6
+64300ab3c1f531f75d1b54ea	PEA17	2015	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.7
+64300ab3c1f531f75d1b54eb	PEA17	2015	Female	Other nationalities(17)	Thousand	10.7
+64300ab3c1f531f75d1b54ec	PEA17	2015	Female	All nationalities	Thousand	40.2
+64300ab3c1f531f75d1b54ed	PEA17	2016	Both sexes	Irish	Thousand	28.4
+64300ab3c1f531f75d1b54ee	PEA17	2016	Both sexes	UK (1)	Thousand	5.9
+64300ab3c1f531f75d1b54ef	PEA17	2016	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	11.4
+64300ab3c1f531f75d1b54f0	PEA17	2016	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	13.2
+64300ab3c1f531f75d1b54f1	PEA17	2016	Both sexes	Other nationalities(17)	Thousand	23.6
+64300ab3c1f531f75d1b54f2	PEA17	2016	Both sexes	All nationalities	Thousand	82.3
+64300ab3c1f531f75d1b54f3	PEA17	2016	Male	Irish	Thousand	14.4
+64300ab3c1f531f75d1b54f4	PEA17	2016	Male	UK (1)	Thousand	3.3
+64300ab3c1f531f75d1b54f5	PEA17	2016	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.2
+64300ab3c1f531f75d1b54f6	PEA17	2016	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.8
+64300ab3c1f531f75d1b54f7	PEA17	2016	Male	Other nationalities(17)	Thousand	11.5
+64300ab3c1f531f75d1b54f8	PEA17	2016	Male	All nationalities	Thousand	41.2
+64300ab3c1f531f75d1b54f9	PEA17	2016	Female	Irish	Thousand	13.9
+64300ab3c1f531f75d1b54fa	PEA17	2016	Female	UK (1)	Thousand	2.6
+64300ab3c1f531f75d1b54fb	PEA17	2016	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.2
+64300ab3c1f531f75d1b54fc	PEA17	2016	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.4
+64300ab3c1f531f75d1b54fd	PEA17	2016	Female	Other nationalities(17)	Thousand	12.1
+64300ab3c1f531f75d1b54fe	PEA17	2016	Female	All nationalities	Thousand	41.2
+64300ab3c1f531f75d1b54ff	PEA17	2017	Both sexes	Irish	Thousand	27.4
+64300ab3c1f531f75d1b5500	PEA17	2017	Both sexes	UK (1)	Thousand	6.1
+64300ab3c1f531f75d1b5501	PEA17	2017	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	10.8
+64300ab3c1f531f75d1b5502	PEA17	2017	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	10.9
+64300ab3c1f531f75d1b5503	PEA17	2017	Both sexes	Other nationalities(17)	Thousand	29.4
+64300ab3c1f531f75d1b5504	PEA17	2017	Both sexes	All nationalities	Thousand	84.6
+64300ab3c1f531f75d1b5505	PEA17	2017	Male	Irish	Thousand	14.1
+64300ab3c1f531f75d1b5506	PEA17	2017	Male	UK (1)	Thousand	3.3
+64300ab4c1f531f75d1b5507	PEA17	2017	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.2
+64300ab4c1f531f75d1b5508	PEA17	2017	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.6
+64300ab4c1f531f75d1b5509	PEA17	2017	Male	Other nationalities(17)	Thousand	14.5
+64300ab4c1f531f75d1b550a	PEA17	2017	Male	All nationalities	Thousand	42.7
+64300ab4c1f531f75d1b550b	PEA17	2017	Female	Irish	Thousand	13.3
+64300ab4c1f531f75d1b550c	PEA17	2017	Female	UK (1)	Thousand	2.8
+64300ab4c1f531f75d1b550d	PEA17	2017	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.6
+64300ab4c1f531f75d1b550e	PEA17	2017	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.3
+64300ab4c1f531f75d1b550f	PEA17	2017	Female	Other nationalities(17)	Thousand	14.9
+64300ab4c1f531f75d1b5510	PEA17	2017	Female	All nationalities	Thousand	41.9
+64300ab4c1f531f75d1b5511	PEA17	2018	Both sexes	Irish	Thousand	28.4
+64300ab4c1f531f75d1b5512	PEA17	2018	Both sexes	UK (1)	Thousand	7.3
+64300ab4c1f531f75d1b5513	PEA17	2018	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	11.6
+64300ab4c1f531f75d1b5514	PEA17	2018	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	12.2
+64300ab4c1f531f75d1b5515	PEA17	2018	Both sexes	Other nationalities(17)	Thousand	30.9
+64300ab4c1f531f75d1b5516	PEA17	2018	Both sexes	All nationalities	Thousand	90.3
+64300ab4c1f531f75d1b5517	PEA17	2018	Male	Irish	Thousand	14.1
+64300ab4c1f531f75d1b5518	PEA17	2018	Male	UK (1)	Thousand	3.8
+64300ab4c1f531f75d1b5519	PEA17	2018	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.4
+64300ab4c1f531f75d1b551a	PEA17	2018	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.5
+64300ab4c1f531f75d1b551b	PEA17	2018	Male	Other nationalities(17)	Thousand	15.7
+64300ab4c1f531f75d1b551c	PEA17	2018	Male	All nationalities	Thousand	44.5
+64300ab4c1f531f75d1b551d	PEA17	2018	Female	Irish	Thousand	14.3
+64300ab4c1f531f75d1b551e	PEA17	2018	Female	UK (1)	Thousand	3.5
+64300ab4c1f531f75d1b551f	PEA17	2018	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.2
+64300ab4c1f531f75d1b5520	PEA17	2018	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.7
+64300ab4c1f531f75d1b5521	PEA17	2018	Female	Other nationalities(17)	Thousand	15.1
+64300ab4c1f531f75d1b5522	PEA17	2018	Female	All nationalities	Thousand	45.8
+64300ab4c1f531f75d1b5523	PEA17	2019	Both sexes	Irish	Thousand	26.9
+64300ab4c1f531f75d1b5524	PEA17	2019	Both sexes	UK (1)	Thousand	7.4
+64300ab4c1f531f75d1b5525	PEA17	2019	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	12.6
+64300ab4c1f531f75d1b5526	PEA17	2019	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	11.1
+64300ab4c1f531f75d1b5527	PEA17	2019	Both sexes	Other nationalities(17)	Thousand	30.6
+64300ab4c1f531f75d1b5528	PEA17	2019	Both sexes	All nationalities	Thousand	88.6
+64300ab4c1f531f75d1b5529	PEA17	2019	Male	Irish	Thousand	13.8
+64300ab4c1f531f75d1b552a	PEA17	2019	Male	UK (1)	Thousand	3.9
+64300ab4c1f531f75d1b552b	PEA17	2019	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.1
+64300ab4c1f531f75d1b552c	PEA17	2019	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.4
+64300ab4c1f531f75d1b552d	PEA17	2019	Male	Other nationalities(17)	Thousand	15.9
+64300ab4c1f531f75d1b552e	PEA17	2019	Male	All nationalities	Thousand	45.0
+64300ab4c1f531f75d1b552f	PEA17	2019	Female	Irish	Thousand	13.2
+64300ab4c1f531f75d1b5530	PEA17	2019	Female	UK (1)	Thousand	3.6
+64300ab4c1f531f75d1b5531	PEA17	2019	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.5
+64300ab4c1f531f75d1b5532	PEA17	2019	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.7
+64300ab4c1f531f75d1b5533	PEA17	2019	Female	Other nationalities(17)	Thousand	14.7
+64300ab4c1f531f75d1b5534	PEA17	2019	Female	All nationalities	Thousand	43.6
+64300ab4c1f531f75d1b5535	PEA17	2020	Both sexes	Irish	Thousand	28.9
+64300ab4c1f531f75d1b5536	PEA17	2020	Both sexes	UK (1)	Thousand	5.5
+64300ab4c1f531f75d1b5537	PEA17	2020	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	9.2
+64300ab4c1f531f75d1b5538	PEA17	2020	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	11.4
+64300ab4c1f531f75d1b5539	PEA17	2020	Both sexes	Other nationalities(17)	Thousand	30.4
+64300ab4c1f531f75d1b553a	PEA17	2020	Both sexes	All nationalities	Thousand	85.4
+64300ab4c1f531f75d1b553b	PEA17	2020	Male	Irish	Thousand	14.1
+64300ab4c1f531f75d1b553c	PEA17	2020	Male	UK (1)	Thousand	3.1
+64300ab4c1f531f75d1b553d	PEA17	2020	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.1
+64300ab4c1f531f75d1b553e	PEA17	2020	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.3
+64300ab4c1f531f75d1b553f	PEA17	2020	Male	Other nationalities(17)	Thousand	15.2
+64300ab4c1f531f75d1b5540	PEA17	2020	Male	All nationalities	Thousand	41.9
+64300ab4c1f531f75d1b5541	PEA17	2020	Female	Irish	Thousand	14.8
+64300ab4c1f531f75d1b5542	PEA17	2020	Female	UK (1)	Thousand	2.4
+64300ab4c1f531f75d1b5543	PEA17	2020	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.1
+64300ab4c1f531f75d1b5544	PEA17	2020	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.0
+64300ab4c1f531f75d1b5545	PEA17	2020	Female	Other nationalities(17)	Thousand	15.3
+64300ab4c1f531f75d1b5546	PEA17	2020	Female	All nationalities	Thousand	43.5
+64300ab4c1f531f75d1b5547	PEA17	2021	Both sexes	Irish	Thousand	30.2
+64300ab4c1f531f75d1b5548	PEA17	2021	Both sexes	UK (1)	Thousand	4.3
+64300ab4c1f531f75d1b5549	PEA17	2021	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.6
+64300ab4c1f531f75d1b554a	PEA17	2021	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.0
+64300ab4c1f531f75d1b554b	PEA17	2021	Both sexes	Other nationalities(17)	Thousand	14.1
+64300ab4c1f531f75d1b554c	PEA17	2021	Both sexes	All nationalities	Thousand	65.2
+64300ab4c1f531f75d1b554d	PEA17	2021	Male	Irish	Thousand	14.4
+64300ab4c1f531f75d1b554e	PEA17	2021	Male	UK (1)	Thousand	2.2
+64300ab4c1f531f75d1b554f	PEA17	2021	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.5
+64300ab4c1f531f75d1b5550	PEA17	2021	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.1
+64300ab4c1f531f75d1b5551	PEA17	2021	Male	Other nationalities(17)	Thousand	6.7
+64300ab4c1f531f75d1b5552	PEA17	2021	Male	All nationalities	Thousand	30.9
+64300ab4c1f531f75d1b5553	PEA17	2021	Female	Irish	Thousand	15.8
+64300ab4c1f531f75d1b5554	PEA17	2021	Female	UK (1)	Thousand	2.2
+64300ab4c1f531f75d1b5555	PEA17	2021	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.0
+64300ab4c1f531f75d1b5556	PEA17	2021	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.0
+64300ab4c1f531f75d1b5557	PEA17	2021	Female	Other nationalities(17)	Thousand	7.4
+64300ab4c1f531f75d1b5558	PEA17	2021	Female	All nationalities	Thousand	34.3
+64300ab4c1f531f75d1b5559	PEA17	2022	Both sexes	Irish	Thousand	28.9
+64300ab4c1f531f75d1b555a	PEA17	2022	Both sexes	UK (1)	Thousand	4.5
+64300ab4c1f531f75d1b555b	PEA17	2022	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	12.8
+64300ab4c1f531f75d1b555c	PEA17	2022	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	11.5
+64300ab4c1f531f75d1b555d	PEA17	2022	Both sexes	Other nationalities(17)	Thousand	63.0
+64300ab4c1f531f75d1b555e	PEA17	2022	Both sexes	All nationalities	Thousand	120.7
+64300ab4c1f531f75d1b555f	PEA17	2022	Male	Irish	Thousand	13.2
+64300ab4c1f531f75d1b5560	PEA17	2022	Male	UK (1)	Thousand	2.5
+64300ab4c1f531f75d1b5561	PEA17	2022	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	8.0
+64300ab4c1f531f75d1b5562	PEA17	2022	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.8
+64300ab4c1f531f75d1b5563	PEA17	2022	Male	Other nationalities(17)	Thousand	26.0
+64300ab4c1f531f75d1b5564	PEA17	2022	Male	All nationalities	Thousand	56.5
+64300ab4c1f531f75d1b5565	PEA17	2022	Female	Irish	Thousand	15.7
+64300ab4c1f531f75d1b5566	PEA17	2022	Female	UK (1)	Thousand	2.0
+64300ab4c1f531f75d1b5567	PEA17	2022	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.7
+64300ab4c1f531f75d1b5568	PEA17	2022	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.8
+64300ab4c1f531f75d1b5569	PEA17	2022	Female	Other nationalities(17)	Thousand	37.0
+64300ab4c1f531f75d1b556a	PEA17	2022	Female	All nationalities	Thousand	64.2
+64300ab4c1f531f75d1b556b	PEA16	2006	Both sexes	Irish	Thousand	15.3
+64300ab4c1f531f75d1b556c	PEA16	2006	Both sexes	UK (1)	Thousand	2.2
+64300ab4c1f531f75d1b556d	PEA16	2006	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.1
+64300ab4c1f531f75d1b556e	PEA16	2006	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.2
+64300ab4c1f531f75d1b556f	PEA16	2006	Both sexes	Other nationalities(17)	Thousand	6.2
+64300ab4c1f531f75d1b5570	PEA16	2006	Both sexes	All nationalities	Thousand	36.0
+64300ab4c1f531f75d1b5571	PEA16	2006	Male	Irish	Thousand	8.0
+64300ab4c1f531f75d1b5572	PEA16	2006	Male	UK (1)	Thousand	1.6
+64300ab4c1f531f75d1b5573	PEA16	2006	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.5
+64300ab4c1f531f75d1b5574	PEA16	2006	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.7
+64300ab4c1f531f75d1b5575	PEA16	2006	Male	Other nationalities(17)	Thousand	2.8
+64300ab4c1f531f75d1b5576	PEA16	2006	Male	All nationalities	Thousand	18.7
+64300ab4c1f531f75d1b5577	PEA16	2006	Female	Irish	Thousand	7.3
+64300ab4c1f531f75d1b5578	PEA16	2006	Female	UK (1)	Thousand	0.6
+64300ab4c1f531f75d1b5579	PEA16	2006	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.6
+64300ab4c1f531f75d1b557a	PEA16	2006	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.4
+64300ab4c1f531f75d1b557b	PEA16	2006	Female	Other nationalities(17)	Thousand	3.4
+64300ab4c1f531f75d1b557c	PEA16	2006	Female	All nationalities	Thousand	17.3
+64300ab4c1f531f75d1b557d	PEA16	2007	Both sexes	Irish	Thousand	12.9
+64300ab4c1f531f75d1b557e	PEA16	2007	Both sexes	UK (1)	Thousand	3.7
+64300ab4c1f531f75d1b557f	PEA16	2007	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	8.9
+64300ab4c1f531f75d1b5580	PEA16	2007	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	12.6
+64300ab4c1f531f75d1b5581	PEA16	2007	Both sexes	Other nationalities(17)	Thousand	8.2
+64300ab4c1f531f75d1b5582	PEA16	2007	Both sexes	All nationalities	Thousand	46.3
+64300ab4c1f531f75d1b5583	PEA16	2007	Male	Irish	Thousand	6.1
+64300ab4c1f531f75d1b5584	PEA16	2007	Male	UK (1)	Thousand	2.3
+64300ab4c1f531f75d1b5585	PEA16	2007	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.3
+64300ab4c1f531f75d1b5586	PEA16	2007	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	8.4
+64300ab4c1f531f75d1b5587	PEA16	2007	Male	Other nationalities(17)	Thousand	4.6
+64300ab4c1f531f75d1b5588	PEA16	2007	Male	All nationalities	Thousand	25.7
+64300ab4c1f531f75d1b5589	PEA16	2007	Female	Irish	Thousand	6.8
+64300ab4c1f531f75d1b558a	PEA16	2007	Female	UK (1)	Thousand	1.4
+64300ab4c1f531f75d1b558b	PEA16	2007	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.6
+64300ab4c1f531f75d1b558c	PEA16	2007	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.3
+64300ab4c1f531f75d1b558d	PEA16	2007	Female	Other nationalities(17)	Thousand	3.6
+64300ab4c1f531f75d1b558e	PEA16	2007	Female	All nationalities	Thousand	20.6
+64300ab4c1f531f75d1b558f	PEA16	2008	Both sexes	Irish	Thousand	13.1
+64300ab4c1f531f75d1b5590	PEA16	2008	Both sexes	UK (1)	Thousand	3.7
+64300ab4c1f531f75d1b5591	PEA16	2008	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.0
+64300ab4c1f531f75d1b5592	PEA16	2008	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	17.2
+64300ab4c1f531f75d1b5593	PEA16	2008	Both sexes	Other nationalities(17)	Thousand	9.0
+64300ab4c1f531f75d1b5594	PEA16	2008	Both sexes	All nationalities	Thousand	49.2
+64300ab4c1f531f75d1b5595	PEA16	2008	Male	Irish	Thousand	7.1
+64300ab4c1f531f75d1b5596	PEA16	2008	Male	UK (1)	Thousand	2.5
+64300ab4c1f531f75d1b5597	PEA16	2008	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.0
+64300ab4c1f531f75d1b5598	PEA16	2008	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	12.4
+64300ab4c1f531f75d1b5599	PEA16	2008	Male	Other nationalities(17)	Thousand	5.5
+64300ab4c1f531f75d1b559a	PEA16	2008	Male	All nationalities	Thousand	29.6
+64300ab4c1f531f75d1b559b	PEA16	2008	Female	Irish	Thousand	6.0
+64300ab4c1f531f75d1b559c	PEA16	2008	Female	UK (1)	Thousand	1.3
+64300ab4c1f531f75d1b559d	PEA16	2008	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.0
+64300ab4c1f531f75d1b559e	PEA16	2008	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.8
+64300ab4c1f531f75d1b559f	PEA16	2008	Female	Other nationalities(17)	Thousand	3.5
+64300ab4c1f531f75d1b55a0	PEA16	2008	Female	All nationalities	Thousand	19.6
+64300ab4c1f531f75d1b55a1	PEA16	2009	Both sexes	Irish	Thousand	19.2
+64300ab4c1f531f75d1b55a2	PEA16	2009	Both sexes	UK (1)	Thousand	3.9
+64300ab4c1f531f75d1b55a3	PEA16	2009	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.4
+64300ab4c1f531f75d1b55a4	PEA16	2009	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	30.5
+64300ab4c1f531f75d1b55a5	PEA16	2009	Both sexes	Other nationalities(17)	Thousand	11.0
+64300ab4c1f531f75d1b55a6	PEA16	2009	Both sexes	All nationalities	Thousand	72.0
+64300ab4c1f531f75d1b55a7	PEA16	2009	Male	Irish	Thousand	12.3
+64300ab4c1f531f75d1b55a8	PEA16	2009	Male	UK (1)	Thousand	2.4
+64300ab4c1f531f75d1b55a9	PEA16	2009	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	1.9
+64300ab4c1f531f75d1b55aa	PEA16	2009	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	21.1
+64300ab4c1f531f75d1b55ab	PEA16	2009	Male	Other nationalities(17)	Thousand	4.3
+64300ab4c1f531f75d1b55ac	PEA16	2009	Male	All nationalities	Thousand	41.9
+64300ab4c1f531f75d1b55ad	PEA16	2009	Female	Irish	Thousand	6.9
+64300ab4c1f531f75d1b55ae	PEA16	2009	Female	UK (1)	Thousand	1.5
+64300ab4c1f531f75d1b55af	PEA16	2009	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.5
+64300ab4c1f531f75d1b55b0	PEA16	2009	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.5
+64300ab4c1f531f75d1b55b1	PEA16	2009	Female	Other nationalities(17)	Thousand	6.7
+64300ab4c1f531f75d1b55b2	PEA16	2009	Female	All nationalities	Thousand	30.1
+64300ab4c1f531f75d1b55b3	PEA16	2010	Both sexes	Irish	Thousand	28.9
+64300ab4c1f531f75d1b55b4	PEA16	2010	Both sexes	UK (1)	Thousand	3.0
+64300ab4c1f531f75d1b55b5	PEA16	2010	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	9.0
+64300ab4c1f531f75d1b55b6	PEA16	2010	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	19.0
+64300ab4c1f531f75d1b55b7	PEA16	2010	Both sexes	Other nationalities(17)	Thousand	9.3
+64300ab4c1f531f75d1b55b8	PEA16	2010	Both sexes	All nationalities	Thousand	69.2
+64300ab4c1f531f75d1b55b9	PEA16	2010	Male	Irish	Thousand	16.7
+64300ab4c1f531f75d1b55ba	PEA16	2010	Male	UK (1)	Thousand	1.7
+64300ab4c1f531f75d1b55bb	PEA16	2010	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.0
+64300ab4c1f531f75d1b55bc	PEA16	2010	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	12.8
+64300ab4c1f531f75d1b55bd	PEA16	2010	Male	Other nationalities(17)	Thousand	5.4
+64300ab4c1f531f75d1b55be	PEA16	2010	Male	All nationalities	Thousand	40.6
+64300ab4c1f531f75d1b55bf	PEA16	2010	Female	Irish	Thousand	12.2
+64300ab4c1f531f75d1b55c0	PEA16	2010	Female	UK (1)	Thousand	1.4
+64300ab4c1f531f75d1b55c1	PEA16	2010	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.0
+64300ab4c1f531f75d1b55c2	PEA16	2010	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.2
+64300ab4c1f531f75d1b55c3	PEA16	2010	Female	Other nationalities(17)	Thousand	3.9
+64300ab4c1f531f75d1b55c4	PEA16	2010	Female	All nationalities	Thousand	28.7
+64300ab4c1f531f75d1b55c5	PEA16	2011	Both sexes	Irish	Thousand	42.0
+64300ab4c1f531f75d1b55c6	PEA16	2011	Both sexes	UK (1)	Thousand	4.6
+64300ab4c1f531f75d1b55c7	PEA16	2011	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	10.2
+64300ab4c1f531f75d1b55c8	PEA16	2011	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	13.9
+64300ab4c1f531f75d1b55c9	PEA16	2011	Both sexes	Other nationalities(17)	Thousand	9.9
+64300ab4c1f531f75d1b55ca	PEA16	2011	Both sexes	All nationalities	Thousand	80.6
+64300ab4c1f531f75d1b55cb	PEA16	2011	Male	Irish	Thousand	24.5
+64300ab4c1f531f75d1b55cc	PEA16	2011	Male	UK (1)	Thousand	1.8
+64300ab4c1f531f75d1b55cd	PEA16	2011	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.7
+64300ab4c1f531f75d1b55ce	PEA16	2011	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.8
+64300ab4c1f531f75d1b55cf	PEA16	2011	Male	Other nationalities(17)	Thousand	5.1
+64300ab4c1f531f75d1b55d0	PEA16	2011	Male	All nationalities	Thousand	41.9
+64300ab4c1f531f75d1b55d1	PEA16	2011	Female	Irish	Thousand	17.5
+64300ab4c1f531f75d1b55d2	PEA16	2011	Female	UK (1)	Thousand	2.8
+64300ab4c1f531f75d1b55d3	PEA16	2011	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.6
+64300ab4c1f531f75d1b55d4	PEA16	2011	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.1
+64300ab4c1f531f75d1b55d5	PEA16	2011	Female	Other nationalities(17)	Thousand	4.8
+64300ab4c1f531f75d1b55d6	PEA16	2011	Female	All nationalities	Thousand	38.8
+64300ab4c1f531f75d1b55d7	PEA16	2012	Both sexes	Irish	Thousand	49.7
+64300ab4c1f531f75d1b55d8	PEA16	2012	Both sexes	UK (1)	Thousand	6.7
+64300ab4c1f531f75d1b55d9	PEA16	2012	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.9
+64300ab4c1f531f75d1b55da	PEA16	2012	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.0
+64300ab4c1f531f75d1b55db	PEA16	2012	Both sexes	Other nationalities(17)	Thousand	10.7
+64300ab4c1f531f75d1b55dc	PEA16	2012	Both sexes	All nationalities	Thousand	83.0
+64300ab4c1f531f75d1b55dd	PEA16	2012	Male	Irish	Thousand	27.6
+64300ab4c1f531f75d1b55de	PEA16	2012	Male	UK (1)	Thousand	3.6
+64300ab4c1f531f75d1b55df	PEA16	2012	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.6
+64300ab4c1f531f75d1b55e0	PEA16	2012	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.4
+64300ab4c1f531f75d1b55e1	PEA16	2012	Male	Other nationalities(17)	Thousand	6.8
+64300ab4c1f531f75d1b55e2	PEA16	2012	Male	All nationalities	Thousand	45.9
+64300ab4c1f531f75d1b55e3	PEA16	2012	Female	Irish	Thousand	22.1
+64300ab4c1f531f75d1b55e4	PEA16	2012	Female	UK (1)	Thousand	3.2
+64300ab4c1f531f75d1b55e5	PEA16	2012	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.3
+64300ab4c1f531f75d1b55e6	PEA16	2012	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab4c1f531f75d1b55e7	PEA16	2012	Female	Other nationalities(17)	Thousand	3.9
+64300ab4c1f531f75d1b55e8	PEA16	2012	Female	All nationalities	Thousand	37.1
+64300ab4c1f531f75d1b55e9	PEA16	2013	Both sexes	Irish	Thousand	48.3
+64300ab4c1f531f75d1b55ea	PEA16	2013	Both sexes	UK (1)	Thousand	6.7
+64300ab4c1f531f75d1b55eb	PEA16	2013	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.2
+64300ab4c1f531f75d1b55ec	PEA16	2013	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	8.2
+64300ab4c1f531f75d1b55ed	PEA16	2013	Both sexes	Other nationalities(17)	Thousand	10.9
+64300ab4c1f531f75d1b55ee	PEA16	2013	Both sexes	All nationalities	Thousand	81.3
+64300ab4c1f531f75d1b55ef	PEA16	2013	Male	Irish	Thousand	25.1
+64300ab4c1f531f75d1b55f0	PEA16	2013	Male	UK (1)	Thousand	3.2
+64300ab4c1f531f75d1b55f1	PEA16	2013	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.3
+64300ab4c1f531f75d1b55f2	PEA16	2013	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.0
+64300ab4c1f531f75d1b55f3	PEA16	2013	Male	Other nationalities(17)	Thousand	5.9
+64300ab4c1f531f75d1b55f4	PEA16	2013	Male	All nationalities	Thousand	41.6
+64300ab4c1f531f75d1b55f5	PEA16	2013	Female	Irish	Thousand	23.2
+64300ab4c1f531f75d1b55f6	PEA16	2013	Female	UK (1)	Thousand	3.4
+64300ab4c1f531f75d1b55f7	PEA16	2013	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.9
+64300ab4c1f531f75d1b55f8	PEA16	2013	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.2
+64300ab4c1f531f75d1b55f9	PEA16	2013	Female	Other nationalities(17)	Thousand	5.0
+64300ab4c1f531f75d1b55fa	PEA16	2013	Female	All nationalities	Thousand	39.7
+64300ab4c1f531f75d1b55fb	PEA16	2014	Both sexes	Irish	Thousand	45.0
+64300ab4c1f531f75d1b55fc	PEA16	2014	Both sexes	UK (1)	Thousand	5.8
+64300ab4c1f531f75d1b55fd	PEA16	2014	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.3
+64300ab4c1f531f75d1b55fe	PEA16	2014	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.6
+64300ab4c1f531f75d1b55ff	PEA16	2014	Both sexes	Other nationalities(17)	Thousand	10.2
+64300ab4c1f531f75d1b5600	PEA16	2014	Both sexes	All nationalities	Thousand	75.0
+64300ab4c1f531f75d1b5601	PEA16	2014	Male	Irish	Thousand	23.4
+64300ab4c1f531f75d1b5602	PEA16	2014	Male	UK (1)	Thousand	2.7
+64300ab4c1f531f75d1b5603	PEA16	2014	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.9
+64300ab4c1f531f75d1b5604	PEA16	2014	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.7
+64300ab4c1f531f75d1b5605	PEA16	2014	Male	Other nationalities(17)	Thousand	5.6
+64300ab4c1f531f75d1b5606	PEA16	2014	Male	All nationalities	Thousand	38.3
+64300ab4c1f531f75d1b5607	PEA16	2014	Female	Irish	Thousand	21.6
+64300ab4c1f531f75d1b5608	PEA16	2014	Female	UK (1)	Thousand	3.1
+64300ab4c1f531f75d1b5609	PEA16	2014	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.4
+64300ab4c1f531f75d1b560a	PEA16	2014	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.9
+64300ab4c1f531f75d1b560b	PEA16	2014	Female	Other nationalities(17)	Thousand	4.6
+64300ab4c1f531f75d1b560c	PEA16	2014	Female	All nationalities	Thousand	36.6
+64300ab4c1f531f75d1b560d	PEA16	2015	Both sexes	Irish	Thousand	42.5
+64300ab4c1f531f75d1b560e	PEA16	2015	Both sexes	UK (1)	Thousand	5.6
+64300ab4c1f531f75d1b560f	PEA16	2015	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.0
+64300ab4c1f531f75d1b5610	PEA16	2015	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.1
+64300ab4c1f531f75d1b5611	PEA16	2015	Both sexes	Other nationalities(17)	Thousand	8.8
+64300ab4c1f531f75d1b5612	PEA16	2015	Both sexes	All nationalities	Thousand	70.0
+64300ab4c1f531f75d1b5613	PEA16	2015	Male	Irish	Thousand	21.8
+64300ab4c1f531f75d1b5614	PEA16	2015	Male	UK (1)	Thousand	2.6
+64300ab4c1f531f75d1b5615	PEA16	2015	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.8
+64300ab4c1f531f75d1b5616	PEA16	2015	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.5
+64300ab4c1f531f75d1b5617	PEA16	2015	Male	Other nationalities(17)	Thousand	5.2
+64300ab4c1f531f75d1b5618	PEA16	2015	Male	All nationalities	Thousand	35.8
+64300ab4c1f531f75d1b5619	PEA16	2015	Female	Irish	Thousand	20.7
+64300ab4c1f531f75d1b561a	PEA16	2015	Female	UK (1)	Thousand	2.9
+64300ab4c1f531f75d1b561b	PEA16	2015	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.2
+64300ab4c1f531f75d1b561c	PEA16	2015	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.6
+64300ab4c1f531f75d1b561d	PEA16	2015	Female	Other nationalities(17)	Thousand	3.6
+64300ab4c1f531f75d1b561e	PEA16	2015	Female	All nationalities	Thousand	34.1
+64300ab4c1f531f75d1b561f	PEA16	2016	Both sexes	Irish	Thousand	37.1
+64300ab4c1f531f75d1b5620	PEA16	2016	Both sexes	UK (1)	Thousand	5.2
+64300ab4c1f531f75d1b5621	PEA16	2016	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.7
+64300ab4c1f531f75d1b5622	PEA16	2016	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	6.8
+64300ab4c1f531f75d1b5623	PEA16	2016	Both sexes	Other nationalities(17)	Thousand	11.4
+64300ab4c1f531f75d1b5624	PEA16	2016	Both sexes	All nationalities	Thousand	66.2
+64300ab4c1f531f75d1b5625	PEA16	2016	Male	Irish	Thousand	17.4
+64300ab4c1f531f75d1b5626	PEA16	2016	Male	UK (1)	Thousand	2.2
+64300ab4c1f531f75d1b5627	PEA16	2016	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.4
+64300ab4c1f531f75d1b5628	PEA16	2016	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.0
+64300ab4c1f531f75d1b5629	PEA16	2016	Male	Other nationalities(17)	Thousand	6.0
+64300ab4c1f531f75d1b562a	PEA16	2016	Male	All nationalities	Thousand	31.0
+64300ab4c1f531f75d1b562b	PEA16	2016	Female	Irish	Thousand	19.7
+64300ab4c1f531f75d1b562c	PEA16	2016	Female	UK (1)	Thousand	3.0
+64300ab4c1f531f75d1b562d	PEA16	2016	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.3
+64300ab4c1f531f75d1b562e	PEA16	2016	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.8
+64300ab4c1f531f75d1b562f	PEA16	2016	Female	Other nationalities(17)	Thousand	5.4
+64300ab4c1f531f75d1b5630	PEA16	2016	Female	All nationalities	Thousand	35.1
+64300ab4c1f531f75d1b5631	PEA16	2017	Both sexes	Irish	Thousand	30.8
+64300ab4c1f531f75d1b5632	PEA16	2017	Both sexes	UK (1)	Thousand	4.0
+64300ab4c1f531f75d1b5633	PEA16	2017	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.7
+64300ab4c1f531f75d1b5634	PEA16	2017	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.6
+64300ab4c1f531f75d1b5635	PEA16	2017	Both sexes	Other nationalities(17)	Thousand	13.7
+64300ab4c1f531f75d1b5636	PEA16	2017	Both sexes	All nationalities	Thousand	64.8
+64300ab4c1f531f75d1b5637	PEA16	2017	Male	Irish	Thousand	16.3
+64300ab4c1f531f75d1b5638	PEA16	2017	Male	UK (1)	Thousand	2.1
+64300ab4c1f531f75d1b5639	PEA16	2017	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.5
+64300ab4c1f531f75d1b563a	PEA16	2017	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.1
+64300ab4c1f531f75d1b563b	PEA16	2017	Male	Other nationalities(17)	Thousand	7.3
+64300ab4c1f531f75d1b563c	PEA16	2017	Male	All nationalities	Thousand	34.2
+64300ab4c1f531f75d1b563d	PEA16	2017	Female	Irish	Thousand	14.6
+64300ab4c1f531f75d1b563e	PEA16	2017	Female	UK (1)	Thousand	1.9
+64300ab4c1f531f75d1b563f	PEA16	2017	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.1
+64300ab4c1f531f75d1b5640	PEA16	2017	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.5
+64300ab4c1f531f75d1b5641	PEA16	2017	Female	Other nationalities(17)	Thousand	6.5
+64300ab4c1f531f75d1b5642	PEA16	2017	Female	All nationalities	Thousand	30.6
+64300ab4c1f531f75d1b5643	PEA16	2018	Both sexes	Irish	Thousand	28.3
+64300ab4c1f531f75d1b5644	PEA16	2018	Both sexes	UK (1)	Thousand	4.1
+64300ab4c1f531f75d1b5645	PEA16	2018	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	6.8
+64300ab4c1f531f75d1b5646	PEA16	2018	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.1
+64300ab4c1f531f75d1b5647	PEA16	2018	Both sexes	Other nationalities(17)	Thousand	10.0
+64300ab4c1f531f75d1b5648	PEA16	2018	Both sexes	All nationalities	Thousand	56.3
+64300ab4c1f531f75d1b5649	PEA16	2018	Male	Irish	Thousand	13.7
+64300ab4c1f531f75d1b564a	PEA16	2018	Male	UK (1)	Thousand	1.7
+64300ab4c1f531f75d1b564b	PEA16	2018	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.1
+64300ab4c1f531f75d1b564c	PEA16	2018	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.8
+64300ab4c1f531f75d1b564d	PEA16	2018	Male	Other nationalities(17)	Thousand	4.0
+64300ab4c1f531f75d1b564e	PEA16	2018	Male	All nationalities	Thousand	26.4
+64300ab4c1f531f75d1b564f	PEA16	2018	Female	Irish	Thousand	14.6
+64300ab4c1f531f75d1b5650	PEA16	2018	Female	UK (1)	Thousand	2.4
+64300ab4c1f531f75d1b5651	PEA16	2018	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.7
+64300ab4c1f531f75d1b5652	PEA16	2018	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.3
+64300ab4c1f531f75d1b5653	PEA16	2018	Female	Other nationalities(17)	Thousand	6.0
+64300ab4c1f531f75d1b5654	PEA16	2018	Female	All nationalities	Thousand	30.0
+64300ab4c1f531f75d1b5655	PEA16	2019	Both sexes	Irish	Thousand	29.0
+64300ab4c1f531f75d1b5656	PEA16	2019	Both sexes	UK (1)	Thousand	3.2
+64300ab4c1f531f75d1b5657	PEA16	2019	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.5
+64300ab4c1f531f75d1b5658	PEA16	2019	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	7.0
+64300ab4c1f531f75d1b5659	PEA16	2019	Both sexes	Other nationalities(17)	Thousand	11.2
+64300ab4c1f531f75d1b565a	PEA16	2019	Both sexes	All nationalities	Thousand	54.9
+64300ab4c1f531f75d1b565b	PEA16	2019	Male	Irish	Thousand	15.2
+64300ab4c1f531f75d1b565c	PEA16	2019	Male	UK (1)	Thousand	1.2
+64300ab4c1f531f75d1b565d	PEA16	2019	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.1
+64300ab4c1f531f75d1b565e	PEA16	2019	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.6
+64300ab4c1f531f75d1b565f	PEA16	2019	Male	Other nationalities(17)	Thousand	6.0
+64300ab4c1f531f75d1b5660	PEA16	2019	Male	All nationalities	Thousand	28.1
+64300ab4c1f531f75d1b5661	PEA16	2019	Female	Irish	Thousand	13.8
+64300ab4c1f531f75d1b5662	PEA16	2019	Female	UK (1)	Thousand	2.0
+64300ab4c1f531f75d1b5663	PEA16	2019	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.4
+64300ab4c1f531f75d1b5664	PEA16	2019	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	3.4
+64300ab4c1f531f75d1b5665	PEA16	2019	Female	Other nationalities(17)	Thousand	5.2
+64300ab4c1f531f75d1b5666	PEA16	2019	Female	All nationalities	Thousand	26.8
+64300ab4c1f531f75d1b5667	PEA16	2020	Both sexes	Irish	Thousand	28.3
+64300ab4c1f531f75d1b5668	PEA16	2020	Both sexes	UK (1)	Thousand	2.5
+64300ab4c1f531f75d1b5669	PEA16	2020	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	5.2
+64300ab4c1f531f75d1b566a	PEA16	2020	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	9.2
+64300ab4c1f531f75d1b566b	PEA16	2020	Both sexes	Other nationalities(17)	Thousand	11.4
+64300ab4c1f531f75d1b566c	PEA16	2020	Both sexes	All nationalities	Thousand	56.5
+64300ab4c1f531f75d1b566d	PEA16	2020	Male	Irish	Thousand	14.2
+64300ab4c1f531f75d1b566e	PEA16	2020	Male	UK (1)	Thousand	1.9
+64300ab4c1f531f75d1b566f	PEA16	2020	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	2.0
+64300ab4c1f531f75d1b5670	PEA16	2020	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.5
+64300ab4c1f531f75d1b5671	PEA16	2020	Male	Other nationalities(17)	Thousand	5.3
+64300ab4c1f531f75d1b5672	PEA16	2020	Male	All nationalities	Thousand	27.9
+64300ab4c1f531f75d1b5673	PEA16	2020	Female	Irish	Thousand	14.1
+64300ab4c1f531f75d1b5674	PEA16	2020	Female	UK (1)	Thousand	0.6
+64300ab4c1f531f75d1b5675	PEA16	2020	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.1
+64300ab4c1f531f75d1b5676	PEA16	2020	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.7
+64300ab4c1f531f75d1b5677	PEA16	2020	Female	Other nationalities(17)	Thousand	6.1
+64300ab4c1f531f75d1b5678	PEA16	2020	Female	All nationalities	Thousand	28.7
+64300ab4c1f531f75d1b5679	PEA16	2021	Both sexes	Irish	Thousand	22.8
+64300ab4c1f531f75d1b567a	PEA16	2021	Both sexes	UK (1)	Thousand	3.0
+64300ab4c1f531f75d1b567b	PEA16	2021	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	7.6
+64300ab4c1f531f75d1b567c	PEA16	2021	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	5.1
+64300ab4c1f531f75d1b567d	PEA16	2021	Both sexes	Other nationalities(17)	Thousand	15.4
+64300ab4c1f531f75d1b567e	PEA16	2021	Both sexes	All nationalities	Thousand	54.0
+64300ab4c1f531f75d1b567f	PEA16	2021	Male	Irish	Thousand	10.7
+64300ab4c1f531f75d1b5680	PEA16	2021	Male	UK (1)	Thousand	1.8
+64300ab4c1f531f75d1b5681	PEA16	2021	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.0
+64300ab4c1f531f75d1b5682	PEA16	2021	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	2.9
+64300ab4c1f531f75d1b5683	PEA16	2021	Male	Other nationalities(17)	Thousand	8.4
+64300ab4c1f531f75d1b5684	PEA16	2021	Male	All nationalities	Thousand	26.8
+64300ab4c1f531f75d1b5685	PEA16	2021	Female	Irish	Thousand	12.2
+64300ab4c1f531f75d1b5686	PEA16	2021	Female	UK (1)	Thousand	1.2
+64300ab4c1f531f75d1b5687	PEA16	2021	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.7
+64300ab4c1f531f75d1b5688	PEA16	2021	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	2.2
+64300ab4c1f531f75d1b5689	PEA16	2021	Female	Other nationalities(17)	Thousand	7.0
+64300ab4c1f531f75d1b568a	PEA16	2021	Female	All nationalities	Thousand	27.2
+64300ab4c1f531f75d1b568b	PEA16	2022	Both sexes	Irish	Thousand	27.6
+64300ab4c1f531f75d1b568c	PEA16	2022	Both sexes	UK (1)	Thousand	4.1
+64300ab4c1f531f75d1b568d	PEA16	2022	Both sexes	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	4.8
+64300ab4c1f531f75d1b568e	PEA16	2022	Both sexes	EU15 to EU27 (accession countries joined post 2004)	Thousand	4.6
+64300ab4c1f531f75d1b568f	PEA16	2022	Both sexes	Other nationalities(17)	Thousand	18.5
+64300ab4c1f531f75d1b5690	PEA16	2022	Both sexes	All nationalities	Thousand	59.6
+64300ab4c1f531f75d1b5691	PEA16	2022	Male	Irish	Thousand	15.2
+64300ab4c1f531f75d1b5692	PEA16	2022	Male	UK (1)	Thousand	3.3
+64300ab4c1f531f75d1b5693	PEA16	2022	Male	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	3.2
+64300ab4c1f531f75d1b5694	PEA16	2022	Male	EU15 to EU27 (accession countries joined post 2004)	Thousand	2.8
+64300ab4c1f531f75d1b5695	PEA16	2022	Male	Other nationalities(17)	Thousand	9.6
+64300ab4c1f531f75d1b5696	PEA16	2022	Male	All nationalities	Thousand	34.0
+64300ab4c1f531f75d1b5697	PEA16	2022	Female	Irish	Thousand	12.4
+64300ab4c1f531f75d1b5698	PEA16	2022	Female	UK (1)	Thousand	0.8
+64300ab4c1f531f75d1b5699	PEA16	2022	Female	EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland)	Thousand	1.6
+64300ab4c1f531f75d1b569a	PEA16	2022	Female	EU15 to EU27 (accession countries joined post 2004)	Thousand	1.8
+64300ab4c1f531f75d1b569b	PEA16	2022	Female	Other nationalities(17)	Thousand	9.0
+64300ab4c1f531f75d1b569c	PEA16	2022	Female	All nationalities	Thousand	25.6

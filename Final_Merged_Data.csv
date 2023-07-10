@@ -1,0 +1,109 @@
+rent_serial_id,homeless_region,homeless_male_adults,homeless_female_adults,immigrants_nationality,immigrants_gender,immigration_year,rent_location,rent_cost,homeless_adults,latitude,longitude
+1,Dublin,2773,1827,Irish,Both sexes,2020,Carlow Town,915.37,4600,45.2128503,-77.6367828
+2,Mid-East,186,115,UK (1),Both sexes,2020,"Graiguecullen, Carlow",907.25,301,52.8367702,-6.9372423
+3,Midlands,58,51,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2020,"Tullow, Carlow",840.54,109,52.803146,-6.7377301
+4,Mid-West,208,133,EU15 to EU27 (accession countries joined post 2004),Both sexes,2020,Cavan,664.88,341,48.6721731,-3.3457423
+5,North-East,77,51,Other nationalities(17),Both sexes,2020,Cavan Town,691.64,128,54.0202036,-7.5361128
+6,North-West,45,22,All nationalities,Both sexes,2020,"Bailieborough, Cavan",613.4,67,53.91667,-6.96667
+7,South-East,160,62,Irish,Male,2020,"Ballyconnell, Cavan",592.51,222,54.1203534,-7.5794427
+8,South-West,358,220,UK (1),Male,2020,"Ballyjamesduff, Cavan",667.2,578,53.8638208,-7.2045904
+9,West,202,149,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2020,"Belturbet, Cavan",584.85,351,54.1036197,-7.4415303
+10,Dublin,2766,1784,EU15 to EU27 (accession countries joined post 2004),Male,2020,"Cootehill, Cavan",564.44,4550,54.0725,-7.08194
+11,Mid-East,191,121,Other nationalities(17),Male,2020,"Kingscourt, Cavan",741.9,312,53.9098039,-6.8138657
+12,Midlands,62,52,All nationalities,Male,2020,"Virginia, Cavan",802.72,114,53.8350227,-7.0830739
+13,Mid-West,213,134,Irish,Female,2020,Clare,763.37,347,52.8572575,-8.9374359
+14,North-East,71,53,UK (1),Female,2020,"Ennis, Clare",774.84,124,52.8393222,-8.9752567
+15,North-West,45,18,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2020,"Killaloe, Clare",852.17,63,52.8067603,-8.4405427
+16,South-East,161,56,EU15 to EU27 (accession countries joined post 2004),Female,2020,"Kilrush, Clare",557.57,217,52.6397222,-9.4833283
+17,South-West,362,210,Other nationalities(17),Female,2020,"Newmarket-On-Fergus, Clare",842.07,572,52.755527,-8.910028
+18,West,187,128,All nationalities,Female,2020,"Shannon, Clare",811.26,315,52.7104544,-8.8788366
+19,Dublin,2773,1742,Irish,Both sexes,2021,"Sixmilebridge, Clare",841.07,4515,52.741389,-8.774167
+20,Mid-East,191,126,UK (1),Both sexes,2021,Cork,1134.61,317,51.897077,-8.4654674
+21,Midlands,53,44,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2021,Cork City,1287.06,97,40.7400377,-74.0308337
+22,Mid-West,199,132,EU15 to EU27 (accession countries joined post 2004),Both sexes,2021,"Ballincollig, Cork",1252.79,331,51.8883458,-8.5893917
+23,North-East,64,48,Other nationalities(17),Both sexes,2021,"Ballintemple, Cork",1333.84,112,51.8947981,-8.4354471
+24,North-West,50,19,All nationalities,Both sexes,2021,"Bandon, Cork",931.9,69,51.7356023,-8.9328923
+25,South-East,162,56,Irish,Male,2021,"Bantry, Cork",692.73,218,51.6797696,-9.4523603
+26,South-West,345,205,UK (1),Male,2021,"Bishopstown, Cork",1364.49,550,51.8796067,-8.5166631
+27,West,190,153,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2021,"Blackpool, Cork",1054.96,343,51.9103708,-8.4731089
+28,Dublin,2652,1614,EU15 to EU27 (accession countries joined post 2004),Male,2021,"Blackrock, Cork",1347.67,4266,51.8968637,-8.4138607
+29,Mid-East,211,124,Other nationalities(17),Male,2021,"Blarney, Cork",1161.94,335,51.9260842,-8.5718485
+30,Midlands,58,40,All nationalities,Male,2021,"Carrigaline, Cork",1188.14,98,51.8280153,-8.3784581
+31,Mid-West,211,119,Irish,Female,2021,"Carrigtwohill, Cork",1110.43,330,51.9163256,-8.2632643
+32,North-East,64,46,UK (1),Female,2021,"Castlemartyr, Cork",881.71,110,51.9081107,-8.0684224
+33,North-West,51,20,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2021,"Charleville, Cork",800.75,71,52.3472276,-8.6535787
+34,South-East,160,58,EU15 to EU27 (accession countries joined post 2004),Female,2021,"Clonakilty, Cork",852.66,218,51.623421,-8.8824034
+35,South-West,324,187,Other nationalities(17),Female,2021,"Cloyne, Cork",1002.08,511,51.86278,-8.12444
+36,West,184,139,All nationalities,Female,2021,"Cobh, Cork",963.51,323,51.8487213,-8.3003801
+37,Dublin,2641,1523,Irish,Both sexes,2022,"Crosshaven, Cork",1085.96,4164,51.8013483,-8.2914022
+38,Mid-East,207,111,UK (1),Both sexes,2022,"Douglas, Cork",1294.26,318,51.8775545,-8.4358941
+39,Midlands,57,35,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2022,"Dunmanway, Cork",781.78,92,51.717115,-9.1099576
+40,Mid-West,195,105,EU15 to EU27 (accession countries joined post 2004),Both sexes,2022,"Fermoy, Cork",875.68,300,52.1291752,-8.2664482
+41,North-East,75,44,Other nationalities(17),Both sexes,2022,"Glanmire, Cork",1206.62,119,51.9192272,-8.3959789
+42,North-West,53,17,All nationalities,Both sexes,2022,"Kanturk, Cork",859.27,70,52.1876848,-8.9205697
+43,South-East,146,55,Irish,Male,2022,"Kinsale, Cork",1277.9,201,51.7097141,-8.5157895
+44,South-West,320,191,UK (1),Male,2022,"Macroom, Cork",834.37,511,51.9045339,-8.9555315
+45,West,174,140,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2022,"Mallow, Cork",931.63,314,52.1388277,-8.6553184
+46,Dublin,2640,1533,EU15 to EU27 (accession countries joined post 2004),Male,2022,"Midleton, Cork",1059.11,4173,51.9211689,-8.1760606
+47,Mid-East,197,112,Other nationalities(17),Male,2022,"Millstreet, Cork",753.29,309,52.0774058,-9.0704257
+48,Midlands,56,41,All nationalities,Male,2022,"Mitchelstown, Cork",772.46,97,52.2595145,-8.2378442
+49,Mid-West,193,98,Irish,Female,2022,"Passage West, Cork",1119.55,291,51.8723603,-8.3364562
+50,North-East,76,43,UK (1),Female,2022,"Rathcormac, Cork",930.74,119,52.0501482,-8.3078635
+51,North-West,53,16,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2022,"Ringaskiddy, Cork",1185.18,69,51.8302347,-8.3207701
+52,South-East,141,48,EU15 to EU27 (accession countries joined post 2004),Female,2022,"Rochestown, Cork",1389.22,189,51.8752284,-8.4023724
+53,South-West,334,168,Other nationalities(17),Female,2022,"Skibbereen, Cork",707.68,502,51.5495131,-9.2695629
+54,West,165,132,All nationalities,Female,2022,"Whitegate, Cork",1038.18,297,51.8150913,-8.2508845
+55,Dublin,2668,1520,Irish,Both sexes,2020,"Wilton, Cork",1191.82,4188,51.8826552,-8.5072082
+56,Mid-East,206,110,UK (1),Both sexes,2020,"Youghal, Cork",836.74,316,51.9396804,-7.8472719
+57,Midlands,58,37,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2020,Donegal,592.99,95,54.9207542,-7.9523852
+58,Mid-West,202,87,EU15 to EU27 (accession countries joined post 2004),Both sexes,2020,Donegal Town,596.52,289,55.2649716,-8.2272976
+59,North-East,85,44,Other nationalities(17),Both sexes,2020,"Ballybofey, Donegal",561.34,129,54.7990639,-7.7819496
+60,North-West,53,20,All nationalities,Both sexes,2020,"Buncrana, Donegal",560.99,73,55.1335983,-7.4486788
+61,South-East,138,49,Irish,Male,2020,"Bundoran, Donegal",528.23,187,54.4809541,-8.2721592
+62,South-West,345,169,UK (1),Male,2020,"Carndonagh, Donegal",475.3,514,55.2394758,-7.3106246
+63,West,160,126,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2020,"Letterkenny, Donegal",651.61,286,54.9517933,-7.7354381
+64,Dublin,2695,1509,EU15 to EU27 (accession countries joined post 2004),Male,2020,"Lifford, Donegal",513.37,4204,54.8349017,-7.4826773
+65,Mid-East,193,110,Other nationalities(17),Male,2020,"Stranorlar, Donegal",527.13,303,54.8044663,-7.7691565
+66,Midlands,56,36,All nationalities,Male,2020,Dublin,1743.14,92,53.3498006,-6.2602964
+67,Mid-West,199,92,Irish,Female,2020,"Balbriggan, Dublin",1371.9,291,53.6049201,-6.1810511
+68,North-East,85,41,UK (1),Female,2020,"Blackrock, Dublin",2129.21,126,53.3018639,-6.1788342
+69,North-West,45,22,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2020,"Booterstown, Dublin",2201.52,67,53.3086291,-6.1966518
+70,South-East,140,48,EU15 to EU27 (accession countries joined post 2004),Female,2020,"Dalkey, Dublin",2593.75,188,53.2757207,-6.1033953
+71,South-West,350,179,Other nationalities(17),Female,2020,"Donabate, Dublin",1605.41,529,53.4817006,-6.155048
+72,West,165,117,All nationalities,Female,2020,"Dun Laoghaire, Dublin",2003.46,282,53.2922794,-6.1360079
+73,Dublin,2713,1538,Irish,Both sexes,2021,"Glenageary, Dublin",2461.1,4251,53.2812377,-6.1231083
+74,Mid-East,184,111,UK (1),Both sexes,2021,"Howth, Dublin",1890.49,295,53.3858337,-6.0651186
+75,Midlands,48,33,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2021,"Killiney, Dublin",2353.24,81,53.2553845,-6.11304
+76,Mid-West,190,101,EU15 to EU27 (accession countries joined post 2004),Both sexes,2021,"Kinsealy, Dublin",1661.32,291,53.4264815,-6.1712697
+77,North-East,77,25,Other nationalities(17),Both sexes,2021,"Lucan, Dublin",1679.13,102,53.3567157,-6.4501534
+78,North-West,49,25,All nationalities,Both sexes,2021,"Lusk, Dublin",1503.39,74,53.5255827,-6.1658125
+79,South-East,145,50,Irish,Male,2021,"Malahide, Dublin",2056.03,195,53.4506973,-6.156591
+80,South-West,348,184,UK (1),Male,2021,"Monkstown, Dublin",1865.44,532,53.2936454,-6.1539023
+81,West,145,107,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2021,"Mount Merrion, Dublin",2662.67,252,53.2932235,-6.211713
+82,Dublin,2762,1535,EU15 to EU27 (accession countries joined post 2004),Male,2021,"Portmarnock, Dublin",1846.2,4297,53.4176576,-6.1513171
+83,Mid-East,192,121,Other nationalities(17),Male,2021,"Rathcoole, Dublin",1545.89,313,53.2813003,-6.4679425
+84,Midlands,43,36,All nationalities,Male,2021,"Rush, Dublin",1424.33,79,53.5243536,-6.1097269
+85,Mid-West,193,96,Irish,Female,2021,"Saggart, Dublin",1608.13,289,53.2587748,-6.4442862
+86,North-East,73,27,UK (1),Female,2021,"Sandycove, Dublin",2183.49,100,53.2859485,-6.1155829
+87,North-West,44,23,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2021,"Shankill, Dublin",1782.34,67,53.2302278,-6.1241807
+88,South-East,149,48,EU15 to EU27 (accession countries joined post 2004),Female,2021,"Skerries, Dublin",1497.79,197,53.5739887,-6.1191749
+89,South-West,338,163,Other nationalities(17),Female,2021,"Stillorgan, Dublin",1984.2,501,53.2888378,-6.198343
+90,West,151,101,All nationalities,Female,2021,"Swords, Dublin",1548.06,252,53.4396969,-6.2080622
+91,Dublin,2749,1494,Irish,Both sexes,2022,Dublin 1,1650.77,4243,53.3524881,-6.2566457
+92,Mid-East,208,115,UK (1),Both sexes,2022,"I.F.S.C., Dublin 1",1852.13,323,47.27541,8.4897
+93,Midlands,45,34,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Both sexes,2022,"Parnell Street, Dublin 1",1713.8,79,53.3526665,-6.2611831
+94,Mid-West,187,100,EU15 to EU27 (accession countries joined post 2004),Both sexes,2022,"Spencer Dock, Dublin 1",2130.29,287,53.3510298,-6.2400455
+95,North-East,71,24,Other nationalities(17),Both sexes,2022,"Summerhill, Dublin 1",1616.96,95,53.354628,-6.255602
+96,North-West,49,26,All nationalities,Both sexes,2022,Dublin 2,2166.85,75,53.3389714,-6.2526788
+97,South-East,126,48,Irish,Male,2022,"Charlemont Street, Dublin 2",2064.17,174,53.3325712,-6.2632614
+98,South-West,344,160,UK (1),Male,2022,"Grand Canal Dock, Dublin 2",2456.44,504,53.3418894,-6.2380215
+99,West,146,106,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Male,2022,"Grand Canal Square, Dublin 2",2871.54,252,53.3433127,-6.2386227
+100,Dublin,2681,1477,EU15 to EU27 (accession countries joined post 2004),Male,2022,"Hanover Quay, Dublin 2",2496.47,4158,53.3441828,-6.2372204
+101,Mid-East,198,112,Other nationalities(17),Male,2022,"Pearse Street, Dublin 2",1775.92,310,53.3434703,-6.2461704
+102,Midlands,38,30,All nationalities,Male,2022,"Tara Street, Dublin 2",1744.19,68,53.3471286,-6.2543071
+103,Mid-West,182,92,Irish,Female,2022,"Temple Bar, Dublin 2",1822.34,274,53.3454957,-6.2631139
+104,North-East,68,21,UK (1),Female,2022,"Townsend Street, Dublin 2",1807.12,89,53.3456427,-6.2504095
+105,North-West,51,21,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),Female,2022,Dublin 3,1684.15,72,53.3631096,-6.2051821
+106,South-East,124,45,EU15 to EU27 (accession countries joined post 2004),Female,2022,"Clonliffe, Dublin 3",1540.35,169,53.3710099,-6.2558664
+107,South-West,340,145,Other nationalities(17),Female,2022,"Clontarf, Dublin 3",1729.14,485,53.3765451,-6.2096458
+108,West,146,102,All nationalities,Female,2022,"Drumcondra, Dublin 3",1592.94,248,26.91667,87.91667
